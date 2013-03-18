@@ -13,3 +13,15 @@
 [submodule "CompilerConstruction"]
 	path = CompilerConstruction
 	url = git://github.com/Petrolevb/CompilerConstruction.git
+[submodule "aqua-energizer"]
+	path = aqua-energizer
+	url = http://code.google.com/p/aqua-energizer
+[submodule "avatar-opengl"]
+	path = avatar-opengl
+	url = http://code.google.com/p/avatar-opengl/
+[submodule "demineur-projet-ihm"]
+	path = demineur-projet-ihm
+	url = http://code.google.com/p/demineur-projet-ihm/
+[submodule "syteme-projet-s6"]
+	path = syteme-projet-s6
+	url = http://code.google.com/p/syteme-projet-s6/
