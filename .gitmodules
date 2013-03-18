@@ -1,0 +1,15 @@
+[submodule "President"]
+	path = President
+	url = git://github.com/Wambou/President.git
+[submodule "DSS"]
+	path = DSS
+	url = git://github.com/Wambou/DSS.git
+[submodule "ProgLangTech"]
+	path = ProgLangTech
+	url = git://github.com/Petrolevb/ProgLangTech.git
+[submodule "Functional-Programming"]
+	path = Functional-Programming
+	url = git://github.com/Petrolevb/Functional-Programming.git
+[submodule "CompilerConstruction"]
+	path = CompilerConstruction
+	url = git://github.com/Petrolevb/CompilerConstruction.git
