@@ -25,3 +25,9 @@
 [submodule "syteme-projet-s6"]
 	path = syteme-projet-s6
 	url = http://code.google.com/p/syteme-projet-s6/
+[submodule "LangBasedSecurity"]
+	path = LangBasedSecurity
+	url = git@github.com:Petrolevb/LangBasedSecurity
+[submodule "ArtificialIntelligenceTIN171"]
+	path = ArtificialIntelligenceTIN171
+	url = git@github.com:Petrolevb/ArtificialIntelligenceTIN171.git
